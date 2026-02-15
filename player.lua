@@ -8,7 +8,6 @@ function Player.new(name)
         hunger = 0,
         inventory = {}
     }
-
     return self
 end
 
